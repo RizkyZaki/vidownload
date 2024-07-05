@@ -36,13 +36,13 @@ npm start
 
 ## Use
 
-After running the app with `npm start`, the app will ask you to enter the Instagram Reels video URL. Once the URL is entered, the application will start downloading the video and save it in the `output` folder with the name `result.mp4`.
+After running the app with `npm start`, the app will ask you to enter the Instagram Reels video URL. Once the URL is entered example url `https://www.instagram.com/reel/C9Bqjsxyrif/?utm_source=ig_web_copy_link`, the application will start downloading the video and save it in the `output` folder with the name `result.mp4`.
 
 ## Contribution
 
 Contributions and suggestions are highly appreciated. If you would like to contribute to this project, please open an _issue_ or submit a _pull request_.
 
-## Licence
+## License
 
 Distribute under the MIT license. For more information, see `LICENSE`.
 
