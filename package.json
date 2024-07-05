@@ -1,7 +1,7 @@
 {
   "name": "vidownload",
   "version": "1.0.0",
-  "description": "",
+  "description": "vidownload js is a Node.js based CLI application for downloading Instagram Reels videos using Puppeteer and Axios.",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
